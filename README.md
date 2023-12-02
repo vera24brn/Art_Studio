@@ -2,8 +2,7 @@
 
 Welcome to Art Studio, your little corner of creativity! This web application provides a canvas for you to paint and create beautiful masterpieces. It comes with a variety of color options, brush sizes, and a simple interface to make your painting experience enjoyable.
 
-Art Studio Preview image 
-[image]https://github.com/vera24brn/Art_Studio/blob/master/images/preview_art_studio.png 
+Art Studio Preview image ![image](https://github.com/vera24brn/Art_Studio/blob/master/images/preview_art_studio.png)
 
 ## Project Structure
 
@@ -52,7 +51,7 @@ To get started with Art Studio, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vera24brn/Art_Studio
+   git clone https://github.com/vera24brn/Art_Studio.git
 2. Open the project folder in your code editor.
 3. Open the index.html file in your web browser.
 
@@ -75,9 +74,6 @@ To enhance your experience with Art Studio, consider the following recommendatio
 
 - **Use a Modern Browser:** For optimal performance, use the latest version of popular web browsers such as Chrome, Firefox, or Safari.
 
-
-## License
-This project is licensed under the **MIT License**
 
 ## Happy Painting! 🖌️🎨
 
